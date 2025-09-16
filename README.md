@@ -40,7 +40,7 @@ This project demonstrates advanced conversation management capabilities through 
 - Google Colab account (recommended) or local Python environment
 
 ### Option 1: Google Colab (Recommended)
-1. **Open in Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/conversation-management-groq/blob/main/groq_conversation_assignment.ipynb)
+1. **Open in Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hboTh7mMQdgsnKGXrmCmfEtNwXR4um1r?usp=sharing)
 
 2. **Install Dependencies**: The notebook will automatically install required packages
    ```python
@@ -216,10 +216,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Assignment Creator**: For the comprehensive project requirements
 
 ## 📞 Support & Contact
-
-- **Issues**: [GitHub Issues](https://github.com/YOUR_USERNAME/conversation-management-groq/issues)
-- **Documentation**: [Project Wiki](https://github.com/YOUR_USERNAME/conversation-management-groq/wiki)
-- **Email**: your.email@example.com
+- **Email**: vanshvagadia1602@gmail.com
 
 ---
 
