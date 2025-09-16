@@ -1,0 +1,3 @@
+# Core API dependencies for the Groq Conversation Management assignment
+groq>=0.4.0
+openai>=1.0.0
